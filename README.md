@@ -2,11 +2,13 @@
 
 A workshop for GAMERella 2019, by [Enric Llagostera](http://enric.llagostera.com.br).
 
+### https://enricllagostera.github.io/gamerella-2019-doc-pub/
+
 ![A nice banner?](https://enric.llagostera.com.br/wp-content/uploads/2018/10/site-banner_small.png)
 
 ## [Presentation link](https://drive.google.com/file/d/13KTYULaOsiJ7hWu_bw6E4oCS2DIv55rJ/view?usp=sharing)
 
-There is also a [script of the presentation topics](presentation.md) if you prefer.
+A [script of the presentation topics](presentation.md) is also available.
 
 ## Some practical setup
 
